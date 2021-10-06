@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Tin of Cookies",
+    "description": "Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
+    "image": "cookie-tin.jpg",
+    "category": "Food",
+    "price": 2.99,
+    "quantity": 500
+  }
+]
