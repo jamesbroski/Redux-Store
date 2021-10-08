@@ -1,5 +1,9 @@
 # Redux-Store
 
+## Activity
+The purpose of this activity was to refactor code using Redux. Sifting through documentation, I was able to refactor the code successfully.
+Here is a link to the documentation used: https://redux.js.org/tutorials/fundamentals/part-1-overview
+
 ## Main Frameworks Used
 
 React.js, Redux, MongoDB, Stripe API, GraphQL, Apollo Server, JWT
