@@ -38,3 +38,6 @@ THEN I find that the app uses Redux instead of the Context API
 Here is a link to the deployed application: https://warm-depths-20206.herokuapp.com/
 
 Screenshots:
+
+![Screen Shot 2021-10-05 at 10 24 05 PM (2)](https://user-images.githubusercontent.com/87332492/136486499-6bfcb4dc-7d88-4ad1-bcff-6fd9795ee09a.png)
+
